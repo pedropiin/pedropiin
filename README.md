@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <p> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropiin&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropiin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropiin&theme=tokyonight">
