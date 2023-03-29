@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Pedro.
+I'm a Computer Science student at University of Campinas (UNICAMP).
+I started my coding journey when I entered the university (2022) and instantly fell in love with it.
+I try to learn different topics by making small independent projects. Currently I'm learning machine learning theory.
 
 <!--
 **pedropiin/pedropiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
