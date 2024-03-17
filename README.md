@@ -2,7 +2,7 @@
 
 - 📕 I'm a Computer Science student at [University of Campinas (UNICAMP)](https://www.unicamp.br/unicamp/).
 - 👨‍💻 I started my coding journey when I entered the university (2022) and instantly fell in love with it.
-- 🤖 I try to learn different topics by making small independent projects. Currently I'm compilers and cryptography.
+- 🤖 I try to learn different topics by making small independent projects. Currently I'm learning compilers and cryptography.
 
 <!--
 **pedropiin/pedropiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
